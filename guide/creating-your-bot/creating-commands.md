@@ -208,7 +208,7 @@ Here's a small list of reasons why you shouldn't do so:
 * Difficult to organize;
 * General bad practice.
 
-Next, we'll be diving into something called a "command handler" – code that makes handling commands easier and much more efficient. This allows you to move your commands into individual files.
+Later, we'll dive into something called a "command handler" – code that makes handling commands easier and much more efficient. This allows you to move your commands into individual files.
 
 ## Resulting code
 
